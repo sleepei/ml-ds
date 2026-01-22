@@ -1,6 +1,10 @@
 ##### hi!, just uploading my jupyter files which contain the training and analysis of datasets that were done for AI/ML.
 
+--------------------------------------------------------------------------
+
 #### Four Jupyter notebooks in Python covering tabular, image, audio and text ML, with classical models and deep learning.
+
+--------------------------------------------------------------------------
 
 #### Project Structure
 ├── Task1_Tabular.ipynb  Tabular classification (XGBoost, TabNet, SHAP)
