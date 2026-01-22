@@ -13,6 +13,9 @@
 
 #### Task Summaries
 Task 1 (Tabular): Classical baselines vs XGBoost/TabNet, with SHAP feature importance; boosted/deep models give best F1/ROC‑AUC.
+
 Task 2 (Image): Classical feature‑based models vs CNN; CNN clearly wins, Grad‑CAM used for visual explanations.
+
 Task 3 (Sound): SVM/RF/XGBoost on MFCC‑style features vs CNN on mel‑spectrograms; CNN achieves highest F1 on UrbanSound8K.
+
 Task 4 (Text): TF‑IDF + classical models vs DistilBERT; SVM strong, DistilBERT reaches near‑perfect F1, with LIME and LDA for insight.
