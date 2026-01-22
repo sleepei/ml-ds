@@ -2,10 +2,6 @@
 
 --------------------------------------------------------------------------
 
-#### Four Jupyter notebooks in Python covering tabular, image, audio and text ML, with classical models and deep learning.
-
---------------------------------------------------------------------------
-
 #### Project Structure
 ├── Task1_Tabular.ipynb  Tabular classification (XGBoost, TabNet, SHAP)
 
