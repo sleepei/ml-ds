@@ -5,8 +5,11 @@
 
 ## Project Structure
 ├── Task1_Tabular.ipynb  Tabular classification (XGBoost, TabNet, SHAP)
+
 ├── Task2_Image.ipynb    Image classification (CNN vs classical, Grad‑CAM)
+
 ├── Task3_Sound.ipynb    Audio classification (MFCC + CNN on mel-spectrograms)
+
 └── Task4_Text.ipynb     Fake vs real news (TF‑IDF vs DistilBERT + LIME/LDA)
 
 ## Task Summaries
